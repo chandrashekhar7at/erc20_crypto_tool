@@ -121,7 +121,7 @@ const Footer = () => {
               <div class="copyright">
                 <p>
                   Copyright © 2023
-                  <a href="#">@theblockchaincoders</a> All Rights Reserved
+                  <a href="#">@graphbit</a> All Rights Reserved
                 </p>
               </div>
             </div>
