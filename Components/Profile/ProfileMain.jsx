@@ -45,7 +45,7 @@ const ProfileMain = ({
     },
   ];
 
-  const contractOwner = 0x1bC0e059E02bf74Eef16E14c401E1441b2C8036D;
+  const contractOwner = 0xE08933c1B5A4c1E5e77043C07e5d63e4C7a5123b;
 
   return (
     <div class="col-xl-9 col-lg-9 col-md-8">
